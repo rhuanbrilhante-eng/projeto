@@ -43,7 +43,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 💻 Telas
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/Dark mode mobile.png" width="40%" height="600px">
+  <img alt="" src="./assets/Dark mode mobile.png" width="40%" height="600px">
   <img alt="projeto DevLinks" src="./assets/Light mode mobile.png
   " width="40%" height = "600px">
 </p>
